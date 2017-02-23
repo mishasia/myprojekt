@@ -1,0 +1,69 @@
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.pdb
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\System.Web.Helpers.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\System.Web.Mvc.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\System.Web.Razor.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\System.Web.Helpers.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\System.Web.Mvc.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\System.Web.Razor.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.pdb
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.dll.config
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\EntityFramework.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\EntityFramework.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.csprojResolveAssemblyReference.cache
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.dll.config
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.pdb
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\EntityFramework.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\System.Web.Helpers.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\System.Web.Mvc.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\System.Web.Razor.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\EntityFramework.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\System.Web.Helpers.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\System.Web.Mvc.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\System.Web.Razor.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.csprojResolveAssemblyReference.cache
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.pdb
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.dll.config
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.pdb
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\EntityFramework.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\System.Web.Helpers.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\System.Web.Mvc.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\System.Web.Razor.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\EntityFramework.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\System.Web.Helpers.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\System.Web.Mvc.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\System.Web.Razor.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.csprojResolveAssemblyReference.cache
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.pdb

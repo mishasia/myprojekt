@@ -1,0 +1,480 @@
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\ApplicationInsights.config
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\roslyn\csc.exe
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\roslyn\vbc.exe
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\roslyn\VBCSCompiler.exe
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\GameStore.WebUI.dll.config
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\GameStore.WebUI.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\GameStore.WebUI.pdb
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Antlr3.Runtime.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\EntityFramework.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\GameStore.Domain.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.Web.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Google.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Moq.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Newtonsoft.Json.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Ninject.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Ninject.Web.Common.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Ninject.Web.Mvc.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Owin.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\System.Web.Helpers.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\System.Web.Mvc.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\System.Web.Optimization.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\System.Web.Razor.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\System.Web.WebPages.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\WebActivator.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\WebGrease.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\GameStore.Domain.pdb
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.Web.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Moq.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Ninject.pdb
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Ninject.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Ninject.Web.Common.pdb
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Ninject.Web.Common.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Ninject.Web.Mvc.pdb
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Ninject.Web.Mvc.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\System.Web.Helpers.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\System.Web.Mvc.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\System.Web.Optimization.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\System.Web.Razor.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\System.Web.WebPages.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Antlr3.Runtime.pdb
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Newtonsoft.Json.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\EntityFramework.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Google.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\obj\Debug\GameStore.WebUI.csprojResolveAssemblyReference.cache
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\obj\Debug\GameStore.WebUI.dll
+D:\Алгоритмізація і програмування\C#другий курс\GameStore\GameStore.WebUI\obj\Debug\GameStore.WebUI.pdb
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\ApplicationInsights.config
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\roslyn\csc.exe
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\roslyn\vbc.exe
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\roslyn\VBCSCompiler.exe
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\GameStore.WebUI.dll.config
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\GameStore.WebUI.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\GameStore.WebUI.pdb
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Antlr3.Runtime.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\EntityFramework.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\GameStore.Domain.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.AI.Web.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Owin.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Google.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Moq.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Newtonsoft.Json.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Ninject.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Ninject.Web.Common.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Ninject.Web.Mvc.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Owin.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\System.Web.Helpers.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\System.Web.Mvc.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\System.Web.Optimization.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\System.Web.Razor.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\System.Web.WebPages.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\WebActivator.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\WebGrease.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\GameStore.Domain.pdb
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.AI.Web.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Moq.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Ninject.pdb
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Ninject.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Ninject.Web.Common.pdb
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Ninject.Web.Common.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Ninject.Web.Mvc.pdb
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Ninject.Web.Mvc.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\System.Web.Helpers.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\System.Web.Mvc.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\System.Web.Optimization.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\System.Web.Razor.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\System.Web.WebPages.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Antlr3.Runtime.pdb
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Newtonsoft.Json.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\EntityFramework.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Owin.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Google.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\obj\Debug\GameStore.WebUI.csprojResolveAssemblyReference.cache
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\obj\Debug\GameStore.WebUI.dll
+D:\Алгоритмізація і програмування\GameStore\GameStore.WebUI\obj\Debug\GameStore.WebUI.pdb
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\ApplicationInsights.config
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\GameStore.WebUI.dll.config
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\GameStore.WebUI.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\GameStore.WebUI.pdb
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\EntityFramework.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\GameStore.Domain.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Owin.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Moq.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Ninject.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Owin.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\WebActivator.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\WebGrease.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\GameStore.Domain.pdb
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Moq.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Ninject.pdb
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Ninject.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\EntityFramework.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Owin.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\obj\Debug\GameStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\obj\Debug\GameStore.WebUI.dll
+C:\Users\USER\Desktop\Курсач\GameStore\GameStore.WebUI\obj\Debug\GameStore.WebUI.pdb
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\ApplicationInsights.config
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\roslyn\csc.exe
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\roslyn\vbc.exe
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\roslyn\VBCSCompiler.exe
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\GameStore.WebUI.dll.config
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\GameStore.WebUI.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\GameStore.WebUI.pdb
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Antlr3.Runtime.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\EntityFramework.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\GameStore.Domain.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.Web.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Google.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Moq.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Newtonsoft.Json.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Ninject.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Ninject.Web.Common.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Ninject.Web.Mvc.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Owin.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\System.Web.Helpers.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\System.Web.Mvc.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\System.Web.Optimization.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\System.Web.Razor.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\System.Web.WebPages.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\WebActivator.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\WebGrease.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\GameStore.Domain.pdb
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.Web.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Moq.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Ninject.pdb
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Ninject.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Ninject.Web.Common.pdb
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Ninject.Web.Common.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Ninject.Web.Mvc.pdb
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Ninject.Web.Mvc.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\System.Web.Helpers.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\System.Web.Mvc.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\System.Web.Optimization.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\System.Web.Razor.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\System.Web.WebPages.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Antlr3.Runtime.pdb
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Newtonsoft.Json.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\EntityFramework.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Google.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\obj\Debug\GameStore.WebUI.csprojResolveAssemblyReference.cache
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\obj\Debug\GameStore.WebUI.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\GameStore\GameStore.WebUI\obj\Debug\GameStore.WebUI.pdb
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\ApplicationInsights.config
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\roslyn\csc.exe
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\roslyn\vbc.exe
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\roslyn\VBCSCompiler.exe
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\GameStore.WebUI.dll.config
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\GameStore.WebUI.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\GameStore.WebUI.pdb
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Antlr3.Runtime.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\EntityFramework.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\GameStore.Domain.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.AI.Web.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Owin.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Google.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Moq.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Newtonsoft.Json.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Ninject.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Ninject.Web.Common.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Ninject.Web.Mvc.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Owin.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\System.Web.Helpers.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\System.Web.Mvc.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\System.Web.Optimization.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\System.Web.Razor.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\System.Web.WebPages.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\WebActivator.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\WebGrease.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\GameStore.Domain.pdb
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.AI.Web.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Moq.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Ninject.pdb
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Ninject.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Ninject.Web.Common.pdb
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Ninject.Web.Common.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Ninject.Web.Mvc.pdb
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Ninject.Web.Mvc.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\System.Web.Helpers.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\System.Web.Mvc.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\System.Web.Optimization.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\System.Web.Razor.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\System.Web.WebPages.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Antlr3.Runtime.pdb
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Newtonsoft.Json.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\EntityFramework.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Owin.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Google.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\obj\Debug\GameStore.WebUI.csprojResolveAssemblyReference.cache
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\obj\Debug\GameStore.WebUI.dll
+D:\Предмети\Алгоритмізація і програмування\C#другий курс\Курсач 2 курс\Новая папка\GameStore\GameStore.WebUI\obj\Debug\GameStore.WebUI.pdb
