@@ -8,11 +8,11 @@ namespace GameStore.Domain.Concrete
 {
     public class EmailSettings
     {
-        public string MailToAddress = "mishasia2515@gmail.com";
-        public string MailFromAddress = "mishasia2515@gmail.com";
+        public string MailToAddress = "";
+        public string MailFromAddress = "";
         public bool UseSsl = true;
-        public string Username = "mishasia2515@gmail.com";
-        public string Password = "45545454";
+        public string Username = "";
+        public string Password = "";
         public string ServerName = "smtp.gmail.com";
         public int ServerPort = 587;
         public bool WriteAsFile = false;
@@ -91,14 +91,14 @@ namespace GameStore.Domain.Concrete
         {
 
             var Mail = new MailMessage {
-                From = new MailAddress("mishasia2515@gmail.com"),
+                From = new MailAddress(""),
             Subject="new by",Body = "lol"};
-            Mail.To.Add("mishasia2515@gmail.com");
+            Mail.To.Add("");
             var client = new SmtpClient
             {
                 Host = "smtp.gmail.com",
                 EnableSsl = true,
-                Credentials = new NetworkCredential("mishasia2515@gmail.com".Split('@')[0], "250597950815"),
+                Credentials = new NetworkCredential("".Split('@')[0], ""),
                 DeliveryMethod = SmtpDeliveryMethod.Network
             };
             client.Send(Mail);
